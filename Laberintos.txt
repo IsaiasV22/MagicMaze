@@ -1,0 +1,30 @@
+|_Salon_1|| Pasillo|           |_Salon_1|           
+                                                       
+                                                       
+                                                       
+                                                       
+|_Cuarto_1|Port magico                                 
+           |_Cuarto_1|                                 
+                                                       
+                                                       
+                                                       
+|_Cueva_1|| TunelJ |                                 
+                                                       
+                                                       
+                                                       
+                                                       
+|_Salon_1|| Pasillo|                                 
+                                                       
+                                                       
+                                                       
+                                                       
+|_Cuarto_1|Port magico                                 
+                                                       
+                                                       
+                                                       
+                                                       
+|_Cueva_1|| TunelJ |                                 
+                                                       
+                                                       
+                                                       
+                                                       
